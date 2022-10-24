@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StoneNLD
+- 👀 interested in RedHat Products, Azure, OpenSource and Python 
+- 🌱 I’m currently working on my cloud knowledge
+- 📫 Reach me on https://www.linkedin.com/in/stijn-nass-577b6441/
